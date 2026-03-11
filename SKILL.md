@@ -8,7 +8,7 @@ metadata:
       env:
         - TRUNCUS_API_KEY
     primaryEnv: TRUNCUS_API_KEY
-    homepage: https://github.com/vanmoose/truncus-openclaw-skill
+    homepage: https://github.com/codevanmoose/truncus-openclaw-skill
     emoji: "📧"
 ---
 
